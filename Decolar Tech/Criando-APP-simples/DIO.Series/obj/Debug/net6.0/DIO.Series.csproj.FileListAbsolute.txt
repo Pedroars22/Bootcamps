@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Criando-APP-simples\DIO.Series\bin\Debug\net6.0\DIO.Series.exe
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Criando-APP-simples\DIO.Series\bin\Debug\net6.0\DIO.Series.deps.json
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Criando-APP-simples\DIO.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Criando-APP-simples\DIO.Series\bin\Debug\net6.0\DIO.Series.dll
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Criando-APP-simples\DIO.Series\bin\Debug\net6.0\ref\DIO.Series.dll
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Criando-APP-simples\DIO.Series\bin\Debug\net6.0\DIO.Series.pdb
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Criando-APP-simples\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Criando-APP-simples\DIO.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Criando-APP-simples\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Criando-APP-simples\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Criando-APP-simples\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Criando-APP-simples\DIO.Series\obj\Debug\net6.0\DIO.Series.dll
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Criando-APP-simples\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Criando-APP-simples\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Criando-APP-simples\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
