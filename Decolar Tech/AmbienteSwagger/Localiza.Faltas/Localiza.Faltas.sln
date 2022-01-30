@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Localiza.Faltas", "Localiza.Faltas\Localiza.Faltas.csproj", "{CFAA181E-D84F-4ADB-A5DE-3328B40853A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFAA181E-D84F-4ADB-A5DE-3328B40853A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFAA181E-D84F-4ADB-A5DE-3328B40853A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFAA181E-D84F-4ADB-A5DE-3328B40853A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFAA181E-D84F-4ADB-A5DE-3328B40853A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FBBB451-5B3B-4E28-8C7A-25DA6B676C47}
+	EndGlobalSection
+EndGlobal
