@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sequencia-IJ2\bin\Debug\net6.0\Desafio-Sequencia-IJ2.exe
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sequencia-IJ2\bin\Debug\net6.0\Desafio-Sequencia-IJ2.deps.json
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sequencia-IJ2\bin\Debug\net6.0\Desafio-Sequencia-IJ2.runtimeconfig.json
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sequencia-IJ2\bin\Debug\net6.0\Desafio-Sequencia-IJ2.dll
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sequencia-IJ2\bin\Debug\net6.0\ref\Desafio-Sequencia-IJ2.dll
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sequencia-IJ2\bin\Debug\net6.0\Desafio-Sequencia-IJ2.pdb
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sequencia-IJ2\obj\Debug\net6.0\Desafio-Sequencia-IJ2.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sequencia-IJ2\obj\Debug\net6.0\Desafio-Sequencia-IJ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sequencia-IJ2\obj\Debug\net6.0\Desafio-Sequencia-IJ2.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sequencia-IJ2\obj\Debug\net6.0\Desafio-Sequencia-IJ2.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sequencia-IJ2\obj\Debug\net6.0\Desafio-Sequencia-IJ2.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sequencia-IJ2\obj\Debug\net6.0\Desafio-Sequencia-IJ2.dll
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sequencia-IJ2\obj\Debug\net6.0\ref\Desafio-Sequencia-IJ2.dll
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sequencia-IJ2\obj\Debug\net6.0\Desafio-Sequencia-IJ2.pdb
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sequencia-IJ2\obj\Debug\net6.0\Desafio-Sequencia-IJ2.genruntimeconfig.cache

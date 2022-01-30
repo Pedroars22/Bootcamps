@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-2-Quadrado-Pares\obj\Debug\net6.0\Desafio-2-Quadrado-Pares.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-2-Quadrado-Pares\obj\Debug\net6.0\Desafio-2-Quadrado-Pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-2-Quadrado-Pares\obj\Debug\net6.0\Desafio-2-Quadrado-Pares.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-2-Quadrado-Pares\obj\Debug\net6.0\Desafio-2-Quadrado-Pares.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-2-Quadrado-Pares\obj\Debug\net6.0\Desafio-2-Quadrado-Pares.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-2-Quadrado-Pares\bin\Debug\net6.0\Desafio-2-Quadrado-Pares.exe
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-2-Quadrado-Pares\bin\Debug\net6.0\Desafio-2-Quadrado-Pares.deps.json
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-2-Quadrado-Pares\bin\Debug\net6.0\Desafio-2-Quadrado-Pares.runtimeconfig.json
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-2-Quadrado-Pares\bin\Debug\net6.0\Desafio-2-Quadrado-Pares.dll
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-2-Quadrado-Pares\bin\Debug\net6.0\ref\Desafio-2-Quadrado-Pares.dll
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-2-Quadrado-Pares\bin\Debug\net6.0\Desafio-2-Quadrado-Pares.pdb
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-2-Quadrado-Pares\obj\Debug\net6.0\Desafio-2-Quadrado-Pares.dll
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-2-Quadrado-Pares\obj\Debug\net6.0\ref\Desafio-2-Quadrado-Pares.dll
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-2-Quadrado-Pares\obj\Debug\net6.0\Desafio-2-Quadrado-Pares.pdb
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-2-Quadrado-Pares\obj\Debug\net6.0\Desafio-2-Quadrado-Pares.genruntimeconfig.cache

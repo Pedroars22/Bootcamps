@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Vai-ter-copa/1.0.0": {
+        "runtime": {
+          "Vai-ter-copa.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vai-ter-copa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

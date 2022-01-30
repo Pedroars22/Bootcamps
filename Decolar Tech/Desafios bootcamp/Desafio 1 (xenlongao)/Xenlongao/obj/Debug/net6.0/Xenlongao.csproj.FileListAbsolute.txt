@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio 1 xenlongao\Xenlongao\bin\Debug\net6.0\Xenlongao.exe
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio 1 xenlongao\Xenlongao\bin\Debug\net6.0\Xenlongao.deps.json
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio 1 xenlongao\Xenlongao\bin\Debug\net6.0\Xenlongao.runtimeconfig.json
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio 1 xenlongao\Xenlongao\bin\Debug\net6.0\Xenlongao.dll
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio 1 xenlongao\Xenlongao\bin\Debug\net6.0\ref\Xenlongao.dll
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio 1 xenlongao\Xenlongao\bin\Debug\net6.0\Xenlongao.pdb
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio 1 xenlongao\Xenlongao\obj\Debug\net6.0\Xenlongao.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio 1 xenlongao\Xenlongao\obj\Debug\net6.0\Xenlongao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio 1 xenlongao\Xenlongao\obj\Debug\net6.0\Xenlongao.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio 1 xenlongao\Xenlongao\obj\Debug\net6.0\Xenlongao.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio 1 xenlongao\Xenlongao\obj\Debug\net6.0\Xenlongao.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio 1 xenlongao\Xenlongao\obj\Debug\net6.0\Xenlongao.dll
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio 1 xenlongao\Xenlongao\obj\Debug\net6.0\ref\Xenlongao.dll
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio 1 xenlongao\Xenlongao\obj\Debug\net6.0\Xenlongao.pdb
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio 1 xenlongao\Xenlongao\obj\Debug\net6.0\Xenlongao.genruntimeconfig.cache

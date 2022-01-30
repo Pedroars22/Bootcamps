@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Vai-ter-copa\obj\Debug\net6.0\Vai-ter-copa.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Vai-ter-copa\obj\Debug\net6.0\Vai-ter-copa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Vai-ter-copa\obj\Debug\net6.0\Vai-ter-copa.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Vai-ter-copa\obj\Debug\net6.0\Vai-ter-copa.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Vai-ter-copa\obj\Debug\net6.0\Vai-ter-copa.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Vai-ter-copa\bin\Debug\net6.0\Vai-ter-copa.exe
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Vai-ter-copa\bin\Debug\net6.0\Vai-ter-copa.deps.json
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Vai-ter-copa\bin\Debug\net6.0\Vai-ter-copa.runtimeconfig.json
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Vai-ter-copa\bin\Debug\net6.0\Vai-ter-copa.dll
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Vai-ter-copa\bin\Debug\net6.0\ref\Vai-ter-copa.dll
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Vai-ter-copa\bin\Debug\net6.0\Vai-ter-copa.pdb
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Vai-ter-copa\obj\Debug\net6.0\Vai-ter-copa.dll
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Vai-ter-copa\obj\Debug\net6.0\ref\Vai-ter-copa.dll
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Vai-ter-copa\obj\Debug\net6.0\Vai-ter-copa.pdb
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Vai-ter-copa\obj\Debug\net6.0\Vai-ter-copa.genruntimeconfig.cache

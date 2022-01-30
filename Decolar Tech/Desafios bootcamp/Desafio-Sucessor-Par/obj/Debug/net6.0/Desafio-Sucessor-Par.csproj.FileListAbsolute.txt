@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sucessor-Par\bin\Debug\net6.0\Desafio-Sucessor-Par.exe
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sucessor-Par\bin\Debug\net6.0\Desafio-Sucessor-Par.deps.json
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sucessor-Par\bin\Debug\net6.0\Desafio-Sucessor-Par.runtimeconfig.json
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sucessor-Par\bin\Debug\net6.0\Desafio-Sucessor-Par.dll
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sucessor-Par\bin\Debug\net6.0\ref\Desafio-Sucessor-Par.dll
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sucessor-Par\bin\Debug\net6.0\Desafio-Sucessor-Par.pdb
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sucessor-Par\obj\Debug\net6.0\Desafio-Sucessor-Par.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sucessor-Par\obj\Debug\net6.0\Desafio-Sucessor-Par.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sucessor-Par\obj\Debug\net6.0\Desafio-Sucessor-Par.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sucessor-Par\obj\Debug\net6.0\Desafio-Sucessor-Par.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sucessor-Par\obj\Debug\net6.0\Desafio-Sucessor-Par.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sucessor-Par\obj\Debug\net6.0\Desafio-Sucessor-Par.dll
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sucessor-Par\obj\Debug\net6.0\ref\Desafio-Sucessor-Par.dll
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sucessor-Par\obj\Debug\net6.0\Desafio-Sucessor-Par.pdb
+C:\Users\pedro\OneDrive\Documentos\Bootcamps\Decolar Tech\Desafios bootcamp\Desafio-Sucessor-Par\obj\Debug\net6.0\Desafio-Sucessor-Par.genruntimeconfig.cache

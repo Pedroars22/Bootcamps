@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Desafio-Sequencia-IJ2/1.0.0": {
+        "runtime": {
+          "Desafio-Sequencia-IJ2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desafio-Sequencia-IJ2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
