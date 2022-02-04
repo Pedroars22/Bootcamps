@@ -1,0 +1,9 @@
+Foi usado prompt sync para entrada de dados pelo usuários
+
+Para instalar digite "npm i prompt-sync" no terminal para instalar
+
+//Comando para adicionar a função
+var prompt = require('prompt-sync')();
+
+//Exemplo de como usar a função
+var n = prompt('How many more times? ');
