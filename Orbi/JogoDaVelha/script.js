@@ -1,7 +1,6 @@
 let jogador, vencedor = '';
 let jogadorSelecionado = document.getElementById('jogador-selecionado');
 let vencedorSelecionado = document.getElementById('vencedor-selecionado');
-let quadrados = document.getElementsByClassName('quadrado');
 
 mudarJogador('X');
 
@@ -84,9 +83,9 @@ function mudarVencedor(quadrado) {
 }
 
 function mudarCorQuadrado(quadrado1, quadrado2, quadrado3) {
-    quadrado1.style.background = 'green';
-    quadrado2.style.background = 'green';
-    quadrado3.style.background = 'green';
+    quadrado1.style.background = 'rgba(20, 199, 20, 0.6';
+    quadrado2.style.background = 'rgba(20, 199, 20, 0.6)';
+    quadrado3.style.background = 'rgba(20, 199, 20, 0.6)';
 }
 
 function checaSequencia(quadrado1, quadrado2, quadrado3) {

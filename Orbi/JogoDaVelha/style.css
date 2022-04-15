@@ -1,28 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Reenie+Beanie&display=swap');
+
+* {
+    font-family: 'Reenie Beanie', cursive
+}
+
 body {
     text-align: center;
-    background-color: rgb(198, 195, 195);
 }
+
+h1 {
+    font-size: 50px;
+}
+
+table {
+    margin-left: auto; 
+    margin-right: auto;
+}
+
 
 .quadrado {
     text-align: center;
     width: 50px;
     display: inline-block;
     padding: 40px;
-    font-size: 60px;
-    margin: 5px;
+    font-size: 50px;
     cursor: pointer;
     color: white;
     background: white;
 }
 
+tr td.linhaColuna {
+    border-left: solid black 5px;
+    border-right: solid black 5px;
+}
+
+tr.linhas-meio td {
+    border-bottom: solid black 5px;
+    border-top: solid black 5px;
+}
+
 .jogador, .vencedor {
-    font-size: 30px;
+    font-size: 40px;
     margin-top: 10px;
 }
 
 button {
+    border-radius: 10px;
     margin-top: 10px;
     width: 100px;
-    height: 30px;
     cursor: pointer;
+    font-size: 150%;
 }
